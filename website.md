@@ -75,6 +75,7 @@ One way we have fundraised for our team is Krispy Kreme Fundraisers. On their we
 
 
 
+![Drivetrain Picture](https://github.com/MagicBots18504/magicbots18504.github.io/files/9738074/Screenshot.2022-10-07.175820.pdf)
 
 
 ## Software
